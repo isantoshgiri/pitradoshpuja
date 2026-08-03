@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-display-hi: "Noto Sans Devanagari", serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-body-hi: "Noto Sans Devanagari", system-ui, sans-serif;
+}
+
+/* Hindi is the default/primary language: swap every font-display / font-body
+   element site-wide over to the Devanagari faces automatically, so no
+   individual component needs a locale check. */
+html[data-locale="hi"] {
+  --font-display: var(--font-display-hi);
+  --font-body: var(--font-body-hi);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-ivory text-ink antialiased;
+}
+
+::selection {
+  @apply bg-gold/40 text-ink;
+}
+
+/* Focus states kept visible for accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 2px solid #C99A3B;
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Signature scalloped temple-arch divider, used between major sections */
+.arch-divider {
+  position: relative;
+  height: 28px;
+  width: 100%;
+  background-image: radial-gradient(circle at 12px -6px, transparent 14px, currentColor 14.5px, currentColor 15px, transparent 15.5px);
+  background-size: 28px 28px;
+  background-repeat: repeat-x;
+  background-position: top center;
+}
+
+.text-balance {
+  text-wrap: balance;
+}

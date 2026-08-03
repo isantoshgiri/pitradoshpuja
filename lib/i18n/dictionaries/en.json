@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "title": "Pitra Dosh Puja in Ujjain | Pandit Ajay Sharma Ji | Ramghat",
+    "description": "Book authentic Pitra Dosh Puja, Tripindi Shradh, Narayan Bali and Vedic rituals performed at Ramghat, Ujjain by Pandit Ajay Sharma Ji. Trusted by devotees worldwide."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "pujas": "Pujas",
+    "panditji": "Pandit Ji",
+    "gallery": "Gallery",
+    "blogs": "Blogs",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "bookPuja": "Book Puja"
+  },
+  "header": {
+    "callNow": "Call Now",
+    "whatsapp": "WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Ramghat \u00b7 Kshipra Tat \u00b7 Ujjain",
+    "headline": "Pitra Dosh Puja in Ujjain by Pandit Ajay Sharma Ji",
+    "subheading": "Book authentic Vedic rituals performed on the banks of the Kshipra, guided by a priest devotees have trusted across three generations.",
+    "ctaPrimary": "Book Puja",
+    "ctaSecondary": "Talk to Pandit Ji",
+    "ctaCall": "Call Now",
+    "ctaWhatsapp": "WhatsApp",
+    "trust1": "Trusted by 12,000+ Families",
+    "trust2": "Authentic Vedic Rituals",
+    "trust3": "3 Generations of Priesthood",
+    "trust4": "Online & Offline Booking"
+  },
+  "panditji": {
+    "eyebrow": "Your Officiant",
+    "name": "Pandit Ajay Sharma Ji",
+    "alias": "Known among devotees as \u201cCycle Wala Panda\u201d",
+    "experience": "25+ Years at Ramghat",
+    "bio": "For over two decades, Pandit Ajay Sharma Ji has performed Vedic rituals on the sacred ghats of the Kshipra at Ujjain, a city devotees hold as one of the few places on earth where ancestral rites carry direct spiritual power. Trained in the Shradh Karma tradition of his family lineage, he is known locally as \u201cCycle Wala Panda\u201d for the simple bicycle he once used to reach devotees across the ghat \u2014 a name that has stayed with him as a mark of humility even as families from across India and abroad now seek him out by name.",
+    "specialisationsTitle": "Specialisations",
+    "cta": "Consult Pandit Ji"
+  },
+  "services": {
+    "eyebrow": "Vedic Rituals",
+    "title": "Pujas Performed at Ramghat",
+    "subtitle": "Every ritual is performed by hand, on the ghat, with the mantras and materials prescribed by Shastra \u2014 nothing outsourced, nothing shortened.",
+    "learnMore": "View Details",
+    "items": [
+      { "name": "Pitra Dosh Puja", "desc": "Removes ancestral affliction caused by unfulfilled rites, restoring peace to the family lineage." },
+      { "name": "Tripindi Shradh", "desc": "A three-generation offering performed for ancestors whose rites remain incomplete." },
+      { "name": "Tirth Shradh", "desc": "Pilgrimage-based ancestral offering performed at the sacred confluence of Ujjain." },
+      { "name": "Narayan Bali", "desc": "Liberation ritual for souls who departed through accident, suicide, or unnatural death." },
+      { "name": "Nag Bali", "desc": "Atonement ritual addressing the unintentional harm of serpents in past or present life." },
+      { "name": "Nag Bali \u2013 Narayan Bali", "desc": "The combined rite, performed together for complete resolution of both doshas." },
+      { "name": "Guru Chandal Dosh Puja", "desc": "Corrects the affliction formed by Jupiter and Rahu\u2019s conjunction in the birth chart." },
+      { "name": "Kaal Sarp Dosh Puja", "desc": "Addresses the serpent-formation of planets that clouds progress and peace of mind." },
+      { "name": "Mangal Dosh Puja", "desc": "Pacifies Mars-related affliction affecting marriage and domestic harmony." },
+      { "name": "Mahamrityunjaya Jaap", "desc": "Powerful chant invoking Lord Shiva for health, longevity and protection from untimely death." },
+      { "name": "Rudrabhishek", "desc": "Sacred bathing ritual of the Shivling with milk, honey and Vedic offerings." },
+      { "name": "Satyanarayan Katha", "desc": "Devotional recitation performed for prosperity, gratitude and family well-being." },
+      { "name": "Navgraha Shanti", "desc": "Pacification of all nine planets to bring balance across every area of life." },
+      { "name": "Grah Pravesh Puja", "desc": "Vedic housewarming ritual performed before entering a new home." },
+      { "name": "Vivah Puja", "desc": "Traditional wedding rites performed with complete Vedic ceremony." }
+    ]
+  },
+  "why": {
+    "eyebrow": "Why Devotees Choose Us",
+    "title": "A Tradition You Can Verify, Not Just Trust",
+    "items": [
+      { "title": "Authentic Vedic Rituals", "desc": "Every mantra and offering follows Shastra-prescribed procedure, unaltered." },
+      { "title": "Experienced Pandit", "desc": "Over 25 years performing rites on the ghats of Ujjain." },
+      { "title": "Sacred Location", "desc": "Rituals performed at Ramghat, on the banks of the holy Kshipra." },
+      { "title": "Personal Guidance", "desc": "Direct consultation before booking, in Hindi or English." },
+      { "title": "Online Booking", "desc": "Reserve your date and time from anywhere in the world." },
+      { "title": "Live Video Facility", "desc": "Family members abroad can witness the puja in real time." },
+      { "title": "Prasad Delivery", "desc": "Sacred prasad shipped to your home after the ritual." },
+      { "title": "Transparent Process", "desc": "Clear explanation of procedure and cost, with no hidden asks." },
+      { "title": "Complete Ritual Assistance", "desc": "Materials, priests and ghat arrangements handled end to end." },
+      { "title": "Trusted by Devotees", "desc": "Thousands of families across India and abroad, year after year." }
+    ]
+  },
+  "process": {
+    "eyebrow": "How Booking Works",
+    "title": "Six Steps, from Enquiry to Blessing",
+    "steps": [
+      { "title": "Choose Puja", "desc": "Select the ritual suited to your family\u2019s need." },
+      { "title": "Talk to Pandit Ji", "desc": "A short consultation to confirm the correct procedure." },
+      { "title": "Select Date", "desc": "Pick an auspicious date and time at Ramghat." },
+      { "title": "Confirm Booking", "desc": "Secure your slot with a simple confirmation." },
+      { "title": "Perform Puja", "desc": "Rituals are conducted in person or streamed live for you." },
+      { "title": "Receive Blessings", "desc": "Prasad and a recording are sent to your family." }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "A Glimpse of Ramghat",
+    "title": "Where the Rituals Take Place",
+    "items": ["Ramghat", "Kshipra River", "Temple", "Puja Rituals", "Pandit Ji", "Devotees"]
+  },
+  "testimonials": {
+    "eyebrow": "Devotee Voices",
+    "title": "Families Who Found Peace",
+    "items": [
+      { "name": "Rakesh Verma", "loc": "Delhi, India", "text": "Pandit Ji explained every step patiently before the puja. We felt our ancestors were finally at rest." },
+      { "name": "Sunita Mishra", "loc": "Bhopal, India", "text": "We booked Narayan Bali for my father. The live video let my brother in the US join from afar." },
+      { "name": "Anil Kapoor", "loc": "Toronto, Canada", "text": "Being an NRI, I was unsure this could be done sincerely from a distance. It was handled with real devotion." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "items": [
+      { "q": "What is Pitra Dosh and how do I know if I have it?", "a": "Pitra Dosh occurs when ancestors' rites remain unfulfilled, often shown in a birth chart through affliction of the Sun or Saturn. Common signs include repeated family obstacles, delayed marriage, or unexplained health issues. A brief consultation with Pandit Ji can confirm this from your chart." },
+      { "q": "Why is Ujjain considered significant for Pitra Dosh Puja?", "a": "Ujjain sits on the banks of the Kshipra and is regarded in Vedic tradition as one of the most powerful sites for ancestral rites, alongside Gaya." },
+      { "q": "Can I book a puja without travelling to Ujjain?", "a": "Yes. We offer full online booking with live video streaming so you can witness the entire ritual remotely." },
+      { "q": "What is the difference between Tripindi Shradh and Narayan Bali?", "a": "Tripindi Shradh addresses incomplete rites across three generations of ancestors, while Narayan Bali specifically liberates souls who died through accident or unnatural causes." },
+      { "q": "How long does a typical Pitra Dosh Puja take?", "a": "Most Pitra Dosh rituals take between 3 to 5 hours depending on the specific procedure required." },
+      { "q": "Do I need to be present for Nag Bali Puja?", "a": "It is recommended but not mandatory. The ritual can be performed on your behalf with your Sankalp taken remotely." },
+      { "q": "What documents or details are needed to book?", "a": "We typically ask for the devotee's name, gotra, and the ancestor's details if known, along with your preferred date." },
+      { "q": "Is Prasad sent after the puja?", "a": "Yes, sacred prasad from the ritual is packaged and shipped to your address after completion." },
+      { "q": "How much does Pitra Dosh Puja cost?", "a": "Cost depends on the specific ritual and materials required. Pandit Ji will share a transparent breakdown during consultation." },
+      { "q": "What is Kaal Sarp Dosh and how is it treated?", "a": "Kaal Sarp Dosh forms when all planets fall between Rahu and Ketu in a chart. It is pacified through a dedicated puja combining mantra and offering at Ramghat." },
+      { "q": "Can international devotees book pujas?", "a": "Yes, we regularly perform rituals on behalf of NRI families across the US, UK, Canada, Australia and the Gulf." },
+      { "q": "What is Guru Chandal Dosh?", "a": "It forms when Jupiter and Rahu are conjunct in the birth chart, often affecting wisdom, decision-making and family guidance." },
+      { "q": "Is there a specific time of year best for Shradh rituals?", "a": "Pitru Paksha is considered most auspicious, though ancestral rites can be performed at other times when urgently needed." },
+      { "q": "What is Rudrabhishek and when should it be performed?", "a": "Rudrabhishek is a sacred bathing ritual of the Shivling, performed for health, protection and removal of obstacles, ideally on Mondays or during Shravan." },
+      { "q": "How do I choose between Mangal Dosh Puja and Navgraha Shanti?", "a": "Mangal Dosh Puja targets a specific Mars-related affliction, usually for marriage matters, while Navgraha Shanti addresses all nine planets broadly." },
+      { "q": "Can the puja be performed for a recently deceased family member?", "a": "Yes, specific Shradh rites are prescribed depending on how many days have passed since death; Pandit Ji will guide you on the correct procedure." },
+      { "q": "What should I wear or bring if I travel to Ramghat?", "a": "Simple, modest traditional attire is recommended. Pandit Ji's team arranges all ritual materials in advance." },
+      { "q": "Is Satyanarayan Katha only for special occasions?", "a": "It can be performed for any occasion of gratitude or new beginning, not only festivals \u2014 many families hold it annually." },
+      { "q": "How far in advance should I book?", "a": "We recommend booking at least one week ahead, particularly during Pitru Paksha when dates fill quickly." },
+      { "q": "How is payment handled for online bookings?", "a": "Payment can be made securely online after your consultation confirms the ritual and date; details are shared directly by our team." }
+    ]
+  },
+  "cta": {
+    "title": "Begin with a Conversation, Not a Booking",
+    "subtitle": "Speak with Pandit Ajay Sharma Ji before you decide. Understand exactly what your family needs.",
+    "button": "Talk to Pandit Ji"
+  },
+  "contact": {
+    "eyebrow": "Reach Us",
+    "title": "Visit or Connect with Ramghat",
+    "addressLabel": "Address",
+    "mobileLabel": "Mobile",
+    "emailLabel": "Email",
+    "hoursLabel": "Business Hours",
+    "hours": "Daily, 6:00 AM \u2013 8:00 PM (IST)",
+    "formTitle": "Send a Message",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "country": "Country",
+      "state": "State",
+      "city": "City",
+      "gotra": "Gotra",
+      "purpose": "Purpose of Puja",
+      "date": "Preferred Date",
+      "time": "Preferred Time",
+      "puja": "Select Puja",
+      "message": "Message",
+      "submit": "Submit Enquiry",
+      "submitting": "Submitting your booking...",
+      "success": "Thank you \u2014 we will reach out shortly.",
+      "errorValidation": "Please fill in your name, mobile number, puja and booking date.",
+      "errorGeneral": "We couldn't submit your booking. Please try again or contact us directly."
+    }
+  },
+  "footer": {
+    "about": "Authentic Vedic rituals performed at Ramghat, Ujjain by Pandit Ajay Sharma Ji, trusted by devotees across India and abroad.",
+    "quickLinks": "Quick Links",
+    "allPujas": "All Pujas",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "refund": "Refund Policy",
+    "follow": "Follow Along",
+    "rights": "All rights reserved."
+  },
+  "legalPages": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "sections": [
+        {
+          "body": "We collect the information you provide when booking a puja or contacting us \u2014 your name, phone number, email, address and ritual details \u2014 solely to arrange and perform your requested service."
+        },
+        {
+          "heading": "How we use your information",
+          "body": "Your details are used to confirm bookings, share consultation updates, send prasad, and provide live video access where requested. We do not sell your information to third parties."
+        },
+        {
+          "heading": "Data retention",
+          "body": "Booking records are retained only as long as necessary to provide our services and meet legal obligations."
+        },
+        {
+          "heading": "Contact",
+          "body": "For any privacy concerns, write to contact@cyclewalapanda.com."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "sections": [
+        {
+          "body": "By booking a puja through Pitra Dosh Puja, you agree that rituals are performed according to Vedic Shastra as interpreted by Pandit Ajay Sharma Ji and his team, at Ramghat, Ujjain, on the date and time confirmed at booking."
+        },
+        {
+          "heading": "Bookings",
+          "body": "A booking is confirmed only after a consultation and written confirmation from our team. Dates during high-demand periods, such as Pitru Paksha, are allocated on a first-confirmed basis."
+        },
+        {
+          "heading": "Rescheduling",
+          "body": "Requests to reschedule should be made at least 48 hours in advance wherever possible, subject to ghat and priest availability."
+        },
+        {
+          "heading": "Liability",
+          "body": "While every ritual is performed with full sincerity and adherence to tradition, outcomes of a spiritual nature cannot be guaranteed."
+        }
+      ]
+    },
+    "refund": {
+      "title": "Refund Policy",
+      "sections": [
+        {
+          "body": "Cancellations made at least 5 days before the scheduled puja are eligible for a full refund of advance payment, less any materials already procured for the ritual."
+        },
+        {
+          "heading": "Late cancellations",
+          "body": "Cancellations within 48 hours of the scheduled ritual may not be eligible for a refund, as ghat arrangements and materials are booked in advance."
+        },
+        {
+          "heading": "Rescheduling instead of cancelling",
+          "body": "In most cases we are happy to move your puja to a new date at no extra cost rather than process a cancellation \u2014 contact us as early as possible."
+        },
+        {
+          "heading": "How refunds are processed",
+          "body": "Approved refunds are returned to the original payment method within 5\u20137 business days."
+        }
+      ]
+    }
+  }
+}
