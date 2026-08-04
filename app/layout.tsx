@@ -130,7 +130,25 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </head>
+
+{/* Google Ads Tag */}
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=AW-18366257159"
+/>
+
+<script
+  dangerouslySetInnerHTML={{
+    __html: `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-18366257159');
+    `,
+  }}
+/>
+
+</head>
       <body className="font-body">
         <LanguageProvider>
           <Header />
