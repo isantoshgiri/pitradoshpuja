@@ -15,14 +15,12 @@ export default function FloatingButtons() {
   rel="noopener noreferrer"
   aria-label={t.header.whatsapp}
   onClick={() => {
-    if (typeof window !== "undefined" && typeof (window as any).gtag === "function") {
-      (window as any).gtag("event", "conversion", {
-        send_to: "AW-18366257159/YncKCNSe1NscEIew27VE",
-        value: 1.0,
-        currency: "INR",
-      });
-    }
-  }}
+  (window as any).gtag?.("event", "conversion", {
+    send_to: "AW-18366257159/YncKCNSe1NscEIew27VE",
+    value: 1.0,
+    currency: "INR",
+  });
+}}
   className="flex h-[52px] w-[52px] items-center justify-center rounded-full bg-[#25D366] p-3.5 text-white shadow-sacred transition"
 >
   <MessageCircle size={22} />
