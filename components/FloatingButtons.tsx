@@ -10,21 +10,23 @@ export default function FloatingButtons() {
     <>
       <div className="fixed bottom-24 right-4 z-40 flex flex-col gap-3 sm:bottom-6">
         <a
-          href="https://wa.me/919617711721"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label={t.header.whatsapp}
-          className="flex h-[52px] w-[52px] items-center justify-center rounded-full bg-[#25D366] p-3.5 text-white shadow-sacred transition-transform hover:scale-105"
-        >
-          <MessageCircle size={22} />
-        </a>
-        <a
-          href="tel:+919617711721"
-          aria-label={t.header.callNow}
-          className="flex h-[52px] w-[52px] items-center justify-center rounded-full bg-maroon p-3.5 text-ivory shadow-sacred transition-transform hover:scale-105"
-        >
-          <Phone size={20} />
-        </a>
+  href="https://wa.me/919617711721"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label={t.header.whatsapp}
+  onClick={() => {
+    if (typeof window !== "undefined" && typeof (window as any).gtag === "function") {
+      (window as any).gtag("event", "conversion", {
+        send_to: "AW-18366257159/YncKCNSe1NscEIew27VE",
+        value: 1.0,
+        currency: "INR",
+      });
+    }
+  }}
+  className="flex h-[52px] w-[52px] items-center justify-center rounded-full bg-[#25D366] p-3.5 text-white shadow-sacred transition"
+>
+  <MessageCircle size={22} />
+</a>
       </div>
 
       {/* Sticky mobile Book Puja bar */}
